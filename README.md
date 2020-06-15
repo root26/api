@@ -4,3 +4,7 @@
 
 
 vmess://eyJ2IjoyLCJwcyI6IuWFjei0ucK3VsK35L2T6aqMwrfmsqrml6XkuK3ovaxKUMK3TzIyNyIsImFkZCI6ImpwNnp3eC53d2FwMS5jb20iLCJwb3J0IjoxMjAxMCwiaWQiOiI3ZWNjZjE4YS00YzAwLTFlNjAtN2UxMi03YWRjMWFkMWI5MTciLCJhaWQiOjAsImhvc3QiOiJqcDZ6d3gud3dhcDEuY29tIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ==
+
+
+
+https://xbrss.com/rss/BeMMYfA/Fu_fMp?net_type=VMESS
